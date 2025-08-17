@@ -1243,8 +1243,18 @@
                         "from_to": "من {pickup} إلى {destination}",
                         "access_denied": "الوصول ممنوع: ليس لديك الصلاحيات المطلوبة",
                         "leaflet_load_failed": "فشل تحميل الخريطة. تحقق من اتصالك بالإنترنت وحاول مرة أخرى."
-                    
-                      
+                    ,
+                    "personal_information":"المعلومات الشخصية",
+                    "account_information":"معلومات الحساب",
+                    "passport_number":"رقم الجواز",
+                    "profile_image":"صورة البروفايل",
+                    "preferred_language":"اللغة المفضلة",
+                    "profile_image_help":"المساعدة في صورة البروفايل",
+                    "username":"اسم المستخدم",
+                    "username_help":"مساعدة في اسم المستخدم",
+                    "username_or_email":"اسم المستخدم او الايميل",
+                    "developer_name":"Eissa ALgumaie",
+                    "username_or_email_placeholder":"اسم المستخدم او الايميل"
                 
               
          

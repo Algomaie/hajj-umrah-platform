@@ -1126,8 +1126,18 @@
     "status_required": "Status is required",
     "from_to": "From {pickup} to {destination}",
     "access_denied": "Access Denied: You do not have the required permissions",
-    "leaflet_load_failed": "Failed to load the map. Check your internet connection and try again."
-  
+    "leaflet_load_failed": "Failed to load the map. Check your internet connection and try again.",
+    "personal_information":"Personal Information",
+    "account_information":"Account Information",
+    "passport_number":"Passport Number",
+    "profile_image":"Profile Image",
+    "preferred_language":"Preferred Language",
+    "profile_image_help":"Profile Image Help",
+    "username":"Username",
+    "username_help":"Username Help",
+    "username_or_email":"Username or Email",
+    "developer_name":"Eissa ALgumaie",
+    "username_or_email_placeholder":"Username or E mail Placeholder"
   
     
 }
